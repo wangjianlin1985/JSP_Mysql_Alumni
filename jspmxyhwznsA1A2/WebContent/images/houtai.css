@@ -1,0 +1,71 @@
+
+        * {margin:0px;padding:0px;}
+        li {list-style-type: none;}
+        body,td {color : #000; overflow:hidden;}
+body, h1,button,input,select,textarea,  fieldset,td{ font:12px/1.5 microsoft yahei, sans-serif,\5b8b\4f53; }
+        a { color: #135294; text-decoration: none; }
+        a:hover { color: #ff6600; text-decoration: underline; }
+        .clear {clear:both;height:0;line-height:0;font-size:0}
+        .table {height:100%;}
+        .top_menu {background:url(../images/top_di3.gif) #dfe8f6 repeat-x;height:69px;}
+        .system_logo{float:left;width:200px;height:69px;}
+        .system_logo .logo {width:164px;height:42px;background:url(../images/logo.gif) no-repeat;margin-left:17px;display:block;margin-top:14px;}
+        .shuju1 {float:left;height:33px;padding-left:17px;background:url(../images/biaoqian.gif) no-repeat left 0;margin-top:17px;}
+        .shuju2 {background-position:-17px 0;}
+        .bian1,.bian2 {background:url(../images/biaoqian.gif) no-repeat;width:17px;height:34px;float:left;}
+        .bian2 {background-position:-17px 0;}
+        .sj1,.sj2,.sj3{float:left;width:5px;height:33px;background:url(../images/top_shuju_di.gif);line-height:31px}
+        .sj2 {background-position:0 -33px;width:auto;padding-left:5px}
+        .sj2 a {margin-right:4px;}
+        .sj2 span {color:#0a0;padding:0 2px;font-size:14px;font-weight:bold;FONT-FAMILY: arial,verdana,sans-serif;}
+        .sj2 .red {color:red;}
+        .sj3{background-position:0 -66px;}
+        .top1 .ok,.top1 .over{font-weight:bold;text-align:center;width:105px;height:36px;line-height:30px;float:left;cursor:pointer}
+        .top1 .ok {background:url(../images/top1_ok.gif) no-repeat;color:#fff;}
+        .top1 .over {background:url(../images/top1_over.gif) no-repeat right 7px;color:#203456;}
+        .top1 #info {font-family : tahoma, 宋体, fantasy;float:right;height:36px;line-height:36px;TEXT-ALIGN:right;padding-right:5px;color:#587597}
+        .gun_text {float:left;width:350px;height:20px;line-height:20px;}
+        .gun_text li{width:100%;height:20px;overflow: hidden;text-overflow:ellipsis;}
+        .gun_text li a{text-decoration:underline;}
+        .gun_text span {padding-left:5px;}
+        .gun_input {float:right;width:20px}
+        .gun_up,.gun_up2,.gun_down,.gun_down2 {background:url(../images/gun_qie.png) no-repeat;width:15px;height:10px;border:0px;}
+        .gun_up {}
+        .gun_up2 {background-position:-15px 0;}
+        .gun_down {background-position:-0 -11px;margin-top:2px;}
+        .gun_down2 {background-position:-15px -11px;margin-top:2px;}
+
+
+
+        .lie {width:100%;}
+        .lie2 {margin-bottom:2px;height:35px;}
+        .lie2 a{background:url(../images/tuichu.gif) no-repeat;display:block;height:35px;font-size:12px;font-weight:bold;line-height:35px;TEXT-ALIGN:center;color:#000;width:80px;float:left;}
+        .lie2 .shouye {background-position:0 -70px;}
+        .lie2 .tuichu {background-position:0 -105px;}
+        .lie2 .shouye:hover {background-position:0 0;text-decoration:none;}
+        .lie2 .tuichu:hover{background-position:0 -35px;text-decoration:none;}
+
+
+        table td .menu {width:100%;background:url(../images/menu_di.gif) repeat-x;height:34px;}
+
+
+
+        table td .menu .wenzi {float:left;padding-left:10px;height:32px;line-height:32px;}
+        table td .menu .wenzi #lblMerchantNum{padding:0 2px;font-weight:bold;}
+        table td .menu .wenzi .green{color:#0a0;}
+        table td .menu .wenzi .red{color:Red}
+        table td .menu .wenzi .a1{display:inline-block;vertical-align:middle;}
+        table td .menu em {margin:0;padding:0 9px;font-style:normal;color:#a8b5c4;}
+
+
+
+
+        table td .menu .wenzi2 {float:right;padding:7px 10px 0 0;overflow: hidden;}
+        table td .menu .wenzi3 {float: right; margin: 6px 10px 0 0; text-align: right;overflow: hidden; line-height: 20px}
+
+        object, embed{display:none;}/*隐藏音乐控件*/
+        /*商户中心*/
+        .sp-center{display: inline-block; position:relative;width:77px; padding-left:9px;background:url(../images/adi.gif) no-repeat 0 13px;border-bottom:1px solifddd}
+.sp-center-hover {background-position:0 -22px;}
+        ul.ul-center{margin:0px ; position:absolute; display:none;z-index:1000;background:#f0f9fd; padding: 3px;left:0px;top:24px;border:1px solid #b2d8ea;border-top:none;width:77px;}
+        ul.ul-center li{height:23px;padding-left:5px;line-height:23px;list-style-type: none; font-weight: normal; cursor:pointer ;}

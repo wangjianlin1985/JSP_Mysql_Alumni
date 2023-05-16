@@ -1,0 +1,61 @@
+BODY {
+	MARGIN: 0px;
+}
+BODY TD {
+	FONT-SIZE: 12px
+}
+A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.red {
+	COLOR: #f00
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #679810; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000; TEXT-DECORATION: none
+}
+
+.newsline TD {
+	LINE-HEIGHT: 25px; BORDER-BOTTOM: #c9c9c9 1px dashed
+}
+.newsline TD A:link {
+	COLOR: #000
+}
+.newsline TD A:visited {
+	COLOR: #000
+}
+.newsline TD A:hover {
+	COLOR: #000
+}
+.newsline TD A:active {
+	COLOR: #000
+}
+
+.STYLE1 {color: #FFFFFF}
+
+.STYLE2 {
+	color: #006800;
+	font-weight: bold;
+}
+.STYLE3 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+}
+.STYLE5 {color: #FFFFFF; font-weight: bold; }
+.L_R-BDBDBD {
+	BORDER-RIGHT: #bdbdbd 1px solid; BORDER-LEFT: #bdbdbd 1px solid
+}
+.white
+{
+	color:#FFFFFF;
+}
+
